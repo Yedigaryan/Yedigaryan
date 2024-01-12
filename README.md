@@ -6,7 +6,10 @@
 
 
 Connect with me:
-[![Yedigaryan](https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png | width=100)](https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/)
+[![Yedigaryan](https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png)](https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/)
+
+<a href="https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/"><img src="https://your-image-url.type](https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="100" height="100"></a>
+
 
 Languages and Tools:
 https://angular.io/
