@@ -1,21 +1,27 @@
-<h1 style='text-align: "center"'>Greetings! I'm Davit Yedigaryan</h1>
+<div align="center">
+    <img src="styles.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
+<h1>Greetings! I'm Davit Yedigaryan</h1>
 
 <p>
   Greetings and welcome to my profile! I'm an expert Angular developer backed by over four years of hands-on experience in both startup and enterprise environments. I'm not just a programmer; I'm a devoted craftsman passionate about bringing innovative ideas to life through code.
 
 **Technical Expertise:**
+<br/>
 My proficiency extends across JavaScript, Angular 2+, RXJS, and NgRX. While Angular is my specialty, I bring a comprehensive understanding of other front-end technologies, including Vue.js and React.js.
 
 **Problem-Solving and Creativity:**
+<br/>
 I thrive on tackling complex challenges that demand out-of-the-box thinking. As the go-to person for creative problem-solving, I bring a unique skill set that sets me apart in any tech team.
 
 **Risk Worth Taking:**
+<br/>
 Hiring a new team member is always a calculated risk. With me, it's a calculated one. I am committed to excellence, ensuring that solutions and results not only meet expectations but exceed them.
 
 **Tech Excellence, Done Right:**
+<br/>
 In the ever-evolving tech landscape, it's not just about getting the job done; it's about getting it done right. I am dedicated to delivering solutions that everyone involved can take pride in.
-
-Let's connect and explore how we can build something extraordinary together. I look forward to the opportunity to contribute to your team.
 </p>
 
 
