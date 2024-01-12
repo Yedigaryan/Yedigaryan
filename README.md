@@ -9,10 +9,9 @@ Connect with me:
 <a href="https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="20" height="20"/></a>
 
 
-Languages and Tools: <br/>
-<a href="https://angular.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width=40" height="40"/></a>
-<a href="https://angular.io/"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="40" height="40"/></a>
+Languages and Tools: 
 
+<a href="https://angular.io/"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="40" height="40"/></a>
 <a href="https://rxjs.dev/"><img src="https://seeklogo.com/images/R/rxjs-logo-DD3DF87EEF-seeklogo.com.png" width="40" height="40"/></a>
 <a href="https://nestjs.com/"><img src="https://nestjs.com/logo-small.ede75a6b.svg" width="40" height="40"/></a>
 <a href="https://ngrx.io/"><img src="https://ngrx.io/assets/images/badge.svg" width="40" height="40"/></a>
@@ -28,7 +27,6 @@ Languages and Tools: <br/>
 <a href="https://lesscss.org/"><img src="https://lesscss.org/public/img/less_logo.png" width="40" height="40"/></a>
 <a href="https://jestjs.io/"><img src="https://miro.medium.com/v2/resize:fit:400/0*oNXnMpSxsxaKKMed.png" width="40" height="40"/></a>
 <a href="https://mochajs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mocha_%28JavaScript_framework%29_%28logo%29.svg/2048px-Mocha_%28JavaScript_framework%29_%28logo%29.svg.png" width="40" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png" width="40" height="40"/></a>
 <a href="https://zeplin.io/"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/></a>
 <a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" width="40" height="40"/></a>
@@ -48,6 +46,7 @@ Languages and Tools: <br/>
 <a href="https://graphql.org/"><img src="https://w7.pngwing.com/pngs/47/318/png-transparent-graphql-playground-macos-bigsur-icon-thumbnail.png" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/"><img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="40" height="40"/></a>
 <a href="https://www.mysql.com/"><img src="https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg" width="40" height="40"/></a>
+<a href="https://git-scm.com/"><img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png" width="40" height="40"/></a>
 
 <a href="https://www.postman.com/"><img src="https://images.squarespace-cdn.com/content/v1/57c649658419c2380d1947be/1534825375055-OA4431YN1BZ93RTAEIZF/postman-tile.png?format=1500w" width="40" height="40"/></a>
 <a href="https://ubuntu.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RojcudKdBRNQ5eWodCX6fa1XBFLxE6TPIA&usqp=CAU" width="40" height="40"/></a>
