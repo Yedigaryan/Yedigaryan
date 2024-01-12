@@ -1,7 +1,4 @@
-## ![plot](./styles.svg)
-
-
-<h1>Greetings! I'm Davit Yedigaryan</h1>
+<h1>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Greetings 👋! I'm Davit Yedigaryan</h1>
 
 <p>
   Greetings and welcome to my profile! I'm an expert Angular developer backed by over four years of hands-on experience in both startup and enterprise environments. I'm not just a programmer; I'm a devoted craftsman passionate about bringing innovative ideas to life through code.
@@ -24,7 +21,6 @@ In the ever-evolving tech landscape, it's not just about getting the job done; i
 </p>
 
 
-- 👋 Greetings! I'm @Yedigaryan, an expert Angular developer with over four years of hands-on experience in startup and enterprise environments.
 - 👀 I’m passionate about JavaScript, specializing in Angular and React. I thrive on tackling complex challenges that demand creative problem-solving.
 - 🌱 Currently, I'm immersed in projects involving Electron, Angular, React, Ionic and NX, and I'm always eager to explore innovative technologies.
 - 💞️ I’m enthusiastic about collaborating on projects that contribute positively to humanity.
