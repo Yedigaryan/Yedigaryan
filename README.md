@@ -6,11 +6,11 @@
 
 
 Connect with me:
-[![Yedigaryan](https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png)](https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/)
-
-<a href="https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="100" height="100"/></a>
+<a href="https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="20" height="20"/></a>
 
 
 Languages and Tools:
-https://angular.io/
+<a href="[https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/](https://angular.io/)"><img src="[https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)" width="20" height="20"/></a>
+
+
 angularjs aws cplusplus docker electron express figma firebase framer git graphql html5 java javascript jest linux mariadb mocha mongodb mysql nestjs nextjs nodejs photoshop postman react redux tailwind typescript
