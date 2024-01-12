@@ -10,11 +10,10 @@ Connect with me:
 
 
 Languages and Tools: <br/>
-<a href="https://angular.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="100" height="40"/></a>
-<a href="https://angular.io/"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="100" height="40"/></a>
+<a href="https://angular.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width=40" height="40"/></a>
+<a href="https://angular.io/"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="40" height="40"/></a>
 
-<a href="https://angular.io/"><img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="100" height="40"/></a>
-<a href="https://rxjs.dev/"><img src="https://w7.pngwing.com/pngs/650/439/png-transparent-rxjs-hd-logo-thumbnail.png" width="40" height="40"/></a>
+<a href="https://rxjs.dev/"><img src="https://seeklogo.com/images/R/rxjs-logo-DD3DF87EEF-seeklogo.com.png" width="40" height="40"/></a>
 <a href="https://nestjs.com/"><img src="https://nestjs.com/logo-small.ede75a6b.svg" width="40" height="40"/></a>
 <a href="https://ngrx.io/"><img src="https://ngrx.io/assets/images/badge.svg" width="40" height="40"/></a>
 <a href="https://www.electronjs.org/"><img src="https://www.electronjs.org/assets/img/logo.svg" width="40" height="40"/></a>
