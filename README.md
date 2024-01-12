@@ -35,7 +35,7 @@ Languages and Tools:
 <a href="https://aws.amazon.com/"><img src="https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon.png" width="40" height="40"/></a>
 <a href="https://cplusplus.com/"><img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" width="40" height="40"/></a>
 <a href="https://www.docker.com/"><img src="https://w7.pngwing.com/pngs/991/165/png-transparent-docker-hd-logo-thumbnail.png" width="40" height="40"/></a>
-<a href="https://ionicframework.com/"><img src="https://w1.pngwing.com/pngs/647/600/png-transparent-javascript-logo-ionic-apache-cordova-software-framework-web-application-html5-angularjs-mobile-development-framework.png" width="40" height="40"/></a>
+<a href="https://ionicframework.com/"><img src="https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" width="40" height="40"/></a>
 <a href="https://lenguajehtml.com/html/"><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="40" height="40"/></a>
 <a href="https://lenguajecss.com/css"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="40" height="40"/></a>
 <a href="https://m3.material.io/"><img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" width="40" height="40"/></a>
