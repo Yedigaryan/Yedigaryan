@@ -1,6 +1,5 @@
-<div align="center">
-    <img src="./styles.svg" width="400" height="400" alt="css-in-readme">
-</div>
+## ![plot](./styles.svg)
+
 
 <h1>Greetings! I'm Davit Yedigaryan</h1>
 
