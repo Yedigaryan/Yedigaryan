@@ -3,3 +3,10 @@
 - 🌱 Currently, I'm immersed in projects involving Electron, Angular, React, Ionic and NX, and I'm always eager to explore innovative technologies.
 - 💞️ I’m enthusiastic about collaborating on projects that contribute positively to humanity.
 - 📫 Reach out to me on Telegram - @Mr_Yedigaryan, WhatsApp - +37495898285. Let's connect and build something extraordinary together!
+
+
+Connect with me:
+Yedigaryan
+
+Languages and Tools:
+angularjs aws cplusplus docker electron express figma firebase framer git graphql html5 java javascript jest linux mariadb mocha mongodb mysql nestjs nextjs nodejs photoshop postman react redux tailwind typescript
