@@ -17,8 +17,6 @@ Languages and Tools:
 <a href="https://ngrx.io/"><img src="https://ngrx.io/assets/images/badge.svg" width="40" height="40"/></a>
 <a href="https://www.electronjs.org/"><img src="https://www.electronjs.org/assets/img/logo.svg" width="40" height="40"/></a>
 <a href="https://nextjs.org/"><img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="40" height="40"/></a>
-<a href="https://firebase.google.com/"><img src="https://www.gstatic.com/devrel-devsite/prod/vf713985d8e62ba7506345995097e4b76a060f9dc558a369e9b889efae740fb5f/firebase/images/lockup.svg" width="40" height="40"/></a>
-<a href="https://angularjs.org/"><img src="https://angularjs.org/img/angularjs-for-header-only.svg" width="80" height="40"/></a>
 <a href="https://expressjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="40" height="40"/></a>
 <a href="https://sass-lang.com/"><img src="https://sass-lang.com/assets/img/logos/logo.svg" width="40" height="40"/></a>
 <a href="https://redux.js.org/"><img src="https://redux.js.org/img/redux.svg" width="40" height="40"/></a>
@@ -30,6 +28,9 @@ Languages and Tools:
 <a href="https://zeplin.io/"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/></a>
 <a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" width="40" height="40"/></a>
+<a href="https://angularjs.org/"><img src="https://angularjs.org/img/angularjs-for-header-only.svg" width="100" height="40"/></a>
+<a href="https://firebase.google.com/"><img src="https://www.gstatic.com/devrel-devsite/prod/vf713985d8e62ba7506345995097e4b76a060f9dc558a369e9b889efae740fb5f/firebase/images/lockup.svg" width="100" height="40"/></a>
+
 
 <a href="https://aws.amazon.com/"><img src="https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon.png" width="40" height="40"/></a>
 <a href="https://cplusplus.com/"><img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" width="40" height="40"/></a>
