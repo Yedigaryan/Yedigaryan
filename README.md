@@ -10,7 +10,34 @@ Connect with me:
 
 
 Languages and Tools:
-<a href="[https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/](https://angular.io/)"><img src="[https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)" width="20" height="20"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angularjs.org/"><img src="[[https://angular.io/assets/images/logos/angular/logo-nav@2x.png](https://angularjs.org/img/angularjs-for-header-only.svg)" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/es/?nc2=h_lg"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
 
 
-angularjs aws cplusplus docker electron express figma firebase framer git graphql html5 java javascript jest linux mariadb mocha mongodb mysql nestjs nextjs nodejs photoshop postman react redux tailwind typescript
+ aws cplusplus docker electron express figma firebase framer git graphql html5 java javascript jest linux mariadb mocha mongodb mysql nestjs nextjs nodejs photoshop postman react redux tailwind typescript
