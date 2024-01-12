@@ -9,10 +9,10 @@ Connect with me:
 <a href="https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="20" height="20"/></a>
 
 
-Languages and Tools:
-<a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
-<a href="https://angularjs.org/"><img src="[[https://angular.io/assets/images/logos/angular/logo-nav@2x.png](https://angularjs.org/img/angularjs-for-header-only.svg)" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/es/?nc2=h_lg"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+Languages and Tools: <br/>
+<a href="https://angular.io/"><img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
+<a href="https://angularjs.org/"><img src="https://angularjs.org/img/angularjs-for-header-only.svg" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/es/?nc2=h_lg"><img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
 <a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
 <a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
 <a href="https://angular.io/"><img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40"/></a>
