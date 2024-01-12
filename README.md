@@ -6,7 +6,8 @@
 
 
 Connect with me:
-[Yedigaryan](https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/)
+[[Yedigaryan](https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png)](https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/)
 
 Languages and Tools:
+https://angular.io/
 angularjs aws cplusplus docker electron express figma firebase framer git graphql html5 java javascript jest linux mariadb mocha mongodb mysql nestjs nextjs nodejs photoshop postman react redux tailwind typescript
