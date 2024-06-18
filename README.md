@@ -24,7 +24,6 @@ In the ever-evolving tech landscape, it's not just about getting the job done; i
 - 👀 I’m passionate about JavaScript, specializing in Angular and React. I thrive on tackling complex challenges that demand creative problem-solving.
 - 🌱 Currently, I'm immersed in projects involving Electron, Angular, React, Ionic and NX, and I'm always eager to explore innovative technologies.
 - 💞️ I’m enthusiastic about collaborating on projects that contribute positively to humanity.
-- 📫 Reach out to me on Telegram - @Mr_Yedigaryan, WhatsApp - +37495898285. Let's connect and build something extraordinary together!
 
 
 Connect with me:
