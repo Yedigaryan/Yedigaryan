@@ -65,15 +65,15 @@ Languages and Tools:
 <a href="https://www.javascript.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40" height="40"/></a>
 <a href="https://react.dev/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://ionicframework.com/" rel="nofollow"><img src="https://e7.pngegg.com/pngimages/426/603/png-clipart-ionic-new-logo-tech-companies.png" width="40" height="40"/></a>
+<a href="https://ionicframework.com/" rel="nofollow"><img src="https://www.ambient-it.net/wp-content/uploads/2016/07/Ionic-logo200.png" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" rel="nofollow"><img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" width="40" height="40"/></a>
-<a href="https://graphql.org/" rel="nofollow"><img src="https://spng.pngfind.com/pngs/s/62-627254_i-wanted-to-give-graphql-a-shot-for.png" width="40" height="40"/></a>
-<a href="https://www.postman.com/" rel="nofollow"><img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies-thumbnail.png" width="40" height="40"/></a>
+<a href="https://git-scm.com/" rel="nofollow"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/></a>
+<a href="https://graphql.org/" rel="nofollow"><img src="https://cdn.iconscout.com/icon/free/png-256/free-graphql-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944912.png?f=webp&w=256" width="40" height="40"/></a>
+<a href="https://www.postman.com/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40"/></a>
 
-<a href="https://ubuntu.com/" rel="nofollow"><img src="https://banner2.cleanpng.com/20180413/rgw/avfckiggl.webp" width="40" height="40"/></a>
-<a href="https://archlinux.org/" rel="nofollow"><img src="https://p7.hiclipart.com/preview/414/79/759/logo-arch-linux-computer-icons-manjaro-linux-desktop-wallpaper-linux.jpg" width="40" height="40"/></a>
-<a href="https://linuxmint.com/" rel="nofollow"><img src="https://banner2.cleanpng.com/20180613/bli/kisspng-linux-mint-installation-arch-linux-cinnamon-mint-5b211d2d4d3535.6633555515288968133163.jpg" width="40" height="40"/></a>
-<a href="https://www.apple.com/macos/sonoma/" rel="nofollow"><img src="https://w7.pngwing.com/pngs/236/939/png-transparent-apple-macos-apple-love-text-computer.png" width="40" height="40"/></a>
+<a href="https://www.apple.com/macos/sonoma/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" width="40" height="40"/></a>
+<a href="https://ubuntu.com/" rel="nofollow"><img src="https://www.pngplay.com/wp-content/uploads/13/Ubuntu-Logo-PNG-Background.png" width="40" height="40"/></a>
+<a href="https://archlinux.org/" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/archlinux-icon-2048x2048-q7549ths.png" width="40" height="40"/></a>
+<a href="https://linuxmint.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40"/></a>
 
   
