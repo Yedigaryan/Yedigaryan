@@ -68,8 +68,8 @@ Languages and Tools:
 <a href="https://ionicframework.com/" rel="nofollow"><img src="https://e7.pngegg.com/pngimages/426/603/png-clipart-ionic-new-logo-tech-companies.png" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://git-scm.com/" rel="nofollow"><img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" width="40" height="40"/></a>
-<a href="https://graphql.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/2a573647c2b7a1ade3e2442d351af0e73d9a7ae08dddaa8abd12f18f5ce8fe3a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6772617068716c2f6772617068716c2d69636f6e2e737667](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGraphQL&psig=AOvVaw3JWb9YmLbhvMmG3oM2v-DT&ust=1728650248003000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiau5Hqg4kDFQAAAAAdAAAAABAE)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png)" width="40" height="40"/></a>
-<a href="https://www.postman.com/" rel="nofollow"><img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" width="40" height="40"/></a>
+<a href="https://graphql.org/" rel="nofollow"><img src="https://spng.pngfind.com/pngs/s/62-627254_i-wanted-to-give-graphql-a-shot-for.png" width="40" height="40"/></a>
+<a href="https://www.postman.com/" rel="nofollow"><img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies-thumbnail.png" width="40" height="40"/></a>
 
 <a href="https://ubuntu.com/" rel="nofollow"><img src="https://banner2.cleanpng.com/20180413/rgw/avfckiggl.webp" width="40" height="40"/></a>
 <a href="https://archlinux.org/" rel="nofollow"><img src="https://p7.hiclipart.com/preview/414/79/759/logo-arch-linux-computer-icons-manjaro-linux-desktop-wallpaper-linux.jpg" width="40" height="40"/></a>
