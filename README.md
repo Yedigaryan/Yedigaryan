@@ -71,8 +71,8 @@ Languages and Tools:
 <a href="https://graphql.org/" rel="nofollow"><img src="https://cdn.iconscout.com/icon/free/png-256/free-graphql-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944912.png?f=webp&w=256" width="40" height="40"/></a>
 <a href="https://www.postman.com/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40"/></a>
 
-<a href="https://www.apple.com/macos/sonoma/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" width="40" height="40"/></a>
-<a href="https://ubuntu.com/" rel="nofollow"><img src="https://www.pngplay.com/wp-content/uploads/13/Ubuntu-Logo-PNG-Background.png" width="40" height="40"/></a>
+<a href="https://www.apple.com/macos/sonoma/" rel="nofollow"><img src="https://seeklogo.com/images/M/Mac_OS-logo-CE24752A9A-seeklogo.com.png" width="40" height="40"/></a>
+<a href="https://ubuntu.com/" rel="nofollow"><img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" width="40" height="40"/></a>
 <a href="https://archlinux.org/" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/archlinux-icon-2048x2048-q7549ths.png" width="40" height="40"/></a>
 <a href="https://linuxmint.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40"/></a>
 
