@@ -1,11 +1,11 @@
 <h1 align="center" dir="auto">Greetings 👋! I'm Davit Yedigaryan</h1>
 
 <p>
-  Greetings and welcome to my profile! I'm an expert Angular developer backed by over four years of hands-on experience in both startup and enterprise environments. I'm not just a programmer; I'm a devoted craftsman passionate about bringing innovative ideas to life through code.
+ Greetings and welcome to my profile! I'm an expert Full Stack developer focused on Frontend backed by over four years of hands-on experience in both startup and enterprise environments. I'm not just a programmer; I'm a devoted craftsman passionate about bringing innovative ideas to life through code.
 
 **Technical Expertise:**
 <br/>
-My proficiency extends across JavaScript, Angular 2+, RXJS, and NgRX. While Angular is my specialty, I bring a comprehensive understanding of other front-end technologies, including Vue.js and React.js.
+My proficiency extends across React, NextJS, JavaScript, Angular 2+, C# and .NET, RXJS, and NgRX. While Angular is my specialty, I bring a comprehensive understanding of other front-end technologies, including React and Vue.js.
 
 **Problem-Solving and Creativity:**
 <br/>
@@ -33,7 +33,7 @@ Connect with me:
 Languages and Tools: 
 
 <a href="https://angular.io/" rel="nofollow"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="40" height="40"/></a>
-<a href="https://rxjs.dev/" rel="nofollow"><img src="https://seeklogo.com/images/R/rxjs-logo-DD3DF87EEF-seeklogo.com.png" width="40" height="40"/></a>
+<a href="https://rxjs.dev/" rel="nofollow"><img src="[https://seeklogo.com/images/R/rxjs-logo-DD3DF87EEF-seeklogo.com.png](https://drive.google.com/file/d/13sygEtpUmyZ6N6h8iP2KIjjziYWWUE9h/view)" width="40" height="40"/></a>
 <a href="https://nestjs.com/" rel="nofollow"><img src="https://nestjs.com/logo-small.ede75a6b.svg" width="40" height="40"/></a>
 <a href="https://ngrx.io/" rel="nofollow"><img src="https://ngrx.io/assets/images/badge.svg" width="40" height="40"/></a>
 <a href="https://www.electronjs.org/" rel="nofollow"><img src="https://www.electronjs.org/assets/img/logo.svg" width="40" height="40"/></a>
