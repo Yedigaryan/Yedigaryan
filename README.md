@@ -21,11 +21,22 @@ In the ever-evolving tech landscape, it's not just about getting the job done; i
 
 
 ### Connect with me:
+<div style="flex: auto; display: flex; gap: 20px; align-items: center;">
 <a href="https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="25" height="25"/></a>
 <a href="https://t.me/Mr_Yedigaryan"><img src="assets/Telegram.png" width="25" height="25"/></a>
+</div> 
 
+### Operating Systems: 
+<div style="flex: auto; display: flex; gap: 20px; align-items: center;">
+<a href="https://www.apple.com/macos/sonoma/" rel="nofollow"><img src="assets/windows.png" width="40" height="40"/></a>
+<a href="https://www.apple.com/macos/sonoma/" rel="nofollow"><img src="assets/macos.png" width="60" height="40"/></a>
+<a href="https://ubuntu.com/" rel="nofollow"><img src="assets/ubuntu.png" width="40" height="40"/></a>
+<a href="https://archlinux.org/" rel="nofollow"><img src="assets/Arch_Linux.svg" width="40" height="40"/></a>
+<a href="https://linuxmint.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40"/></a>
+</div>
 
 ### Languages: 
+<div style="flex: auto; display: flex; gap: 20px; align-items: center;">
 <a href="https://www.javascript.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="45" height="45"/></a>
 <a href="https://lenguajehtml.com/html/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a>
 <a href="https://lenguajecss.com/css" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50"/></a>
@@ -33,23 +44,11 @@ In the ever-evolving tech landscape, it's not just about getting the job done; i
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" rel="nofollow"><img src="assets/Csharp.png" width="60" height="60"/></a>
 <a href="https://cplusplus.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
 <a href="https://www.php.net/" rel="nofollow"><img src="assets/PHP.png" width="60" height="45"/></a>
-<a href="https://www.java.com/en/" rel="nofollow"><img src="assets/java-original.svg" width="345" height="45"/></a>
-
-### Frameworks & Libraries:
-<a href="https://angular.io/" rel="nofollow"><img src="./assets/AngularJS-Shield.svg" width="40" height="40"/></a>
-<a href="https://rxjs.dev/" rel="nofollow"><img src="./assets/rxjs.png" width="40" height="40"/></a>
-<a href="https://nestjs.com/" rel="nofollow"><img src="./assets/nestJS.png" width="40" height="40"/></a>
-<a href="https://ngrx.io/" rel="nofollow"><img src="https://ngrx.io/assets/images/badge.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org/" rel="nofollow"><img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="40" height="40"/></a>
-<a href="https://expressjs.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://redux.js.org/" rel="nofollow"><img src="https://redux.js.org/img/redux.svg" width="40" height="40"/></a>
-<a href="https://sass-lang.com/" rel="nofollow"><img src="https://sass-lang.com/assets/img/logos/logo.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" rel="nofollow"><img src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu" width="40" height="40"/></a>
-<a href="https://m3.material.io/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/1024px-Google_Material_Design_Logo.svg.png" width="40" height="40"/></a>
-<a href="https://ionicframework.com/" rel="nofollow"><img src="https://www.ambient-it.net/wp-content/uploads/2016/07/Ionic-logo200.png" width="40" height="40"/></a>
-<a href="https://graphql.org/" rel="nofollow"><img src="https://cdn.iconscout.com/icon/free/png-256/free-graphql-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944912.png?f=webp&w=256" width="40" height="40"/></a>
+<a href="https://www.java.com/en/" rel="nofollow"><img src="assets/java-original.svg" width="45" height="45"/></a>
+</div>
 
 ### Tools & Platforms:
+<div style="flex: auto; display: flex; gap: 10px; align-items: center;">
 <a href="https://www.figma.com/" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCHweVdJnbAlrZpfDf9iE1Th9VjUCqIjUpAG_ww7oMF6C8TsbT5S66nauebQ&s" width="40" height="40"/></a>
 <a href="https://zeplin.io/" rel="nofollow"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/photoshop.html" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/></a>
@@ -61,12 +60,24 @@ In the ever-evolving tech landscape, it's not just about getting the job done; i
 <a href="https://docker.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="40"/></a>
 <a href="https://aws.amazon.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" rel="nofollow"><img src="assets/firebase.png" width="40" height="40"/></a>
+</div>
 
-### Operating Systems: 
-<a href="https://www.apple.com/macos/sonoma/" rel="nofollow"><img src="assets/macos.png" width="60" height="40"/></a>
-<a href="https://ubuntu.com/" rel="nofollow"><img src="assets/ubuntu.png" width="40" height="40"/></a>
-<a href="https://archlinux.org/" rel="nofollow"><img src="assets/Arch_Linux.svg" width="40" height="40"/></a>
-<a href="https://linuxmint.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40"/></a>
+### Frameworks & Libraries:
+<div style="flex: auto; display: flex; gap: 5px; align-items: center;">
+<a href="https://angular.io/" rel="nofollow"><img src="assets/AngularJS-Shield.svg" width="40" height="40"/></a>
+<a href="https://rxjs.dev/" rel="nofollow"><img src="assets/rxjs.png" width="40" height="40"/></a>
+<a href="https://nestjs.com/" rel="nofollow"><img src="assets/NestJS.png" width="40" height="40"/></a>
+<a href="https://ngrx.io/" rel="nofollow"><img src="https://ngrx.io/assets/images/badge.svg" width="40" height="40"/></a>
+<a href="https://nextjs.org/" rel="nofollow"><img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="40" height="40"/></a>
+<a href="https://expressjs.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://redux.js.org/" rel="nofollow"><img src="https://redux.js.org/img/redux.svg" width="40" height="40"/></a>
+<a href="https://sass-lang.com/" rel="nofollow"><img src="https://sass-lang.com/assets/img/logos/logo.svg" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" rel="nofollow"><img src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu" width="40" height="40"/></a>
+<a href="https://m3.material.io/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/1024px-Google_Material_Design_Logo.svg.png" width="40" height="40"/></a>
+<a href="https://ionicframework.com/" rel="nofollow"><img src="https://www.ambient-it.net/wp-content/uploads/2016/07/Ionic-logo200.png" width="40" height="40"/></a>
+<a href="https://graphql.org/" rel="nofollow"><img src="https://cdn.iconscout.com/icon/free/png-256/free-graphql-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944912.png?f=webp&w=256" width="40" height="40"/></a>
+</div>
+
 
 
   
