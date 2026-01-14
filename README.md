@@ -48,24 +48,8 @@ In the fast-paced tech landscape, it’s not just about completing tasks; it’s
 <a href="https://www.java.com/en/" rel="nofollow"><img src="assets/java-original.svg" width="45" height="45"/></a>
 </div>
 
-<h3 style="text-align: center">Tools & Platforms:</h3>
-<div style="flex: auto; display: flex; gap: 10px; align-items: center; justify-content: center">
-<a href="https://zeplin.io/" rel="nofollow"><img src="assets/zeppelin.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/" rel="nofollow"><img src="assets/figma.png" width="40" height="40"/></a>
-<a href="https://www.adobe.com/products/photoshop.html" rel="nofollow"><img src="assets/photoshop.png" width="40" height="40"/></a>
-<a href="https://helpx.adobe.com/xd/get-started.html" rel="nofollow"><img src="assets/xd.png" width="40" height="40"/></a>
-<a href="https://jestjs.io/" rel="nofollow"><img src="assets/jest.png" width="40" height="40"/></a>
-<a href="https://playwright.dev/" rel="nofollow"><img src="assets/playwright.webp" width="40" height="40"/></a>
-<a href="https://mochajs.org/" rel="nofollow"><img src="assets/mocha.png" width="40" height="40"/></a>
-<a href="https://www.postman.com/" rel="nofollow"><img src="assets/postman.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" rel="nofollow"><img src="assets/git.png" width="40" height="40"/></a>
-<a href="https://docker.com/" rel="nofollow"><img src="assets/docker.png" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/" rel="nofollow"><img src="assets/aws.webp" width="65" height="65"/></a>
-<a href="https://firebase.google.com/" rel="nofollow"><img src="assets/firebase.png" width="40" height="40"/></a>
-</div>
-
 <h3 style="text-align: center">Frameworks & Libraries:</h3>
-<div style="flex: auto; display: flex; gap: 20px; align-items: center; justify-content: center">
+<div style="flex: auto; display: flex; gap: 10px; align-items: center; justify-content: center">
 <a href="https://angular.io/" rel="nofollow"><img src="assets/AngularJS-Shield.svg" width="40" height="40"/></a>
 <a href="https://rxjs.dev/" rel="nofollow"><img src="assets/rxjs.png" width="40" height="40"/></a>
 <a href="https://nestjs.com/" rel="nofollow"><img src="assets/NestJS.png" width="40" height="40"/></a>
@@ -81,5 +65,18 @@ In the fast-paced tech landscape, it’s not just about completing tasks; it’s
 </div>
 
 
-
-
+<h3 style="text-align: center">Tools & Platforms:</h3>
+<div style="flex: auto; display: flex; gap: 20px; align-items: center; justify-content: center">
+<a href="https://zeplin.io/" rel="nofollow"><img src="assets/zeppelin.svg" width="40" height="40"/></a>
+<a href="https://www.figma.com/" rel="nofollow"><img src="assets/figma.png" width="40" height="40"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" rel="nofollow"><img src="assets/photoshop.png" width="40" height="40"/></a>
+<a href="https://helpx.adobe.com/xd/get-started.html" rel="nofollow"><img src="assets/xd.png" width="40" height="40"/></a>
+<a href="https://jestjs.io/" rel="nofollow"><img src="assets/jest.png" width="40" height="40"/></a>
+<a href="https://playwright.dev/" rel="nofollow"><img src="assets/playwright.webp" width="40" height="40"/></a>
+<a href="https://mochajs.org/" rel="nofollow"><img src="assets/mocha.png" width="40" height="40"/></a>
+<a href="https://www.postman.com/" rel="nofollow"><img src="assets/postman.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/" rel="nofollow"><img src="assets/git.png" width="40" height="40"/></a>
+<a href="https://docker.com/" rel="nofollow"><img src="assets/docker.png" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" rel="nofollow"><img src="assets/aws.webp" width="65" height="65"/></a>
+<a href="https://firebase.google.com/" rel="nofollow"><img src="assets/firebase.png" width="40" height="40"/></a>
+</div>
