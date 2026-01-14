@@ -1,33 +1,35 @@
 # Greetings 👋! I'm Davit Yedigaryan
 
 
- Greetings and welcome to my profile! I'm an expert Full Stack developer focused on Frontend backed by over four years of hands-on experience in both startup and enterprise environments. I'm not just a programmer; I'm a devoted craftsman passionate about bringing innovative ideas to life through code.
+ Welcome to my profile! As a seasoned Senior Software Developer with over six years of extensive experience, I specialize in crafting robust and scalable solutions that drive innovation. My journey has taken me through both dynamic startups and established enterprises, where I've honed my skills not just as a programmer, but as a dedicated craftsman who thrives on transforming visionary ideas into reality through code.
 
 #### **Technical Expertise:**
-My proficiency extends across React, NextJS, JavaScript, Angular 2+, C# and .NET, RXJS, and NgRX. While Angular is my specialty, I bring a comprehensive understanding of other front-end technologies, including React and Vue.js.
+My technical arsenal includes React, NextJS, JavaScript, Angular 2+, C# and .NET, RXJS, and NgRX. While Angular is my forte, I possess a well-rounded understanding of various front-end technologies, including React and Vue.js, allowing me to adapt and excel in diverse environments.
 
-**Problem-Solving and Creativity:**
-I thrive on tackling complex challenges that demand out-of-the-box thinking. As the go-to person for creative problem-solving, I bring a unique skill set that sets me apart in any tech team.
+**Creative Problem-Solving:**
+I relish the opportunity to tackle complex challenges that require innovative thinking. As a go-to resource for creative solutions, I bring a unique blend of technical acumen and imaginative problem-solving skills that set me apart in any tech team.
 
-#### **Risk Worth Taking:**
-Hiring a new team member is always a calculated risk. With me, it's a calculated one. I am committed to excellence, ensuring that solutions and results not only meet expectations but exceed them.
+#### **Calculated Risks:**
+Bringing a new team member on board is always a strategic decision. With me, you can be assured that it’s a calculated risk worth taking. I am committed to excellence, ensuring that my contributions not only meet expectations but consistently exceed them.
 
-#### **Tech Excellence, Done Right:**
-In the ever-evolving tech landscape, it's not just about getting the job done; it's about getting it done right. I am dedicated to delivering solutions that everyone involved can take pride in.
+#### **Excellence in Technology:**
+In the fast-paced tech landscape, it’s not just about completing tasks; it’s about doing them right. I am dedicated to delivering high-quality solutions that everyone involved can take pride in.
 
-- 👀 I’m passionate about **JavaScript** but more Like strong typed languages like **Typescript**, specializing in **Angular** and **React**. I thrive on tackling complex challenges that demand creative problem-solving.
-- 🌱 Currently, I'm immersed in projects involving Electron, Angular, React, Ionic and NX, and I'm always eager to explore innovative technologies.
-- 💞️ I’m enthusiastic about collaborating on projects that contribute positively to humanity.
+- 👀 I’m passionate about **JavaScript**, but I have a strong affinity for typed languages like **TypeScript**, with a specialization in **Angular** and **React**. I thrive on tackling intricate challenges that demand creative problem-solving.
+- 🌱 Currently, I’m engaged in projects involving Electron, Angular, React, Ionic, and NX, and I’m always eager to explore and adopt innovative technologies.
+- 💞️ I’m enthusiastic about collaborating on projects that make a positive impact on society.
 
 
-### Connect with me:
-<div style="flex: auto; display: flex; gap: 20px; align-items: center;">
+### 
+<h3 style="text-align: center">Connect with me:</h3>
+<div style="flex: auto; display: flex; gap: 20px; align-items: center; justify-content: center">
 <a href="https://www.linkedin.com/in/davit-yedigaryan-web3-solidity-angular-javascript-developer/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="25" height="25"/></a>
 <a href="https://t.me/Mr_Yedigaryan"><img src="assets/Telegram.png" width="25" height="25"/></a>
 </div> 
 
-### Operating Systems: 
-<div style="flex: auto; display: flex; gap: 20px; align-items: center;">
+<h3 style="text-align: center">Operating Systems:</h3>
+
+<div style="flex: auto; display: flex; gap: 20px; align-items: center; justify-content: center">
 <a href="https://www.apple.com/macos/sonoma/" rel="nofollow"><img src="assets/windows.png" width="40" height="40"/></a>
 <a href="https://www.apple.com/macos/sonoma/" rel="nofollow"><img src="assets/macos.png" width="60" height="40"/></a>
 <a href="https://ubuntu.com/" rel="nofollow"><img src="assets/ubuntu.png" width="40" height="40"/></a>
@@ -35,9 +37,9 @@ In the ever-evolving tech landscape, it's not just about getting the job done; i
 <a href="https://linuxmint.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40"/></a>
 </div>
 
-### Languages: 
-<div style="flex: auto; display: flex; gap: 20px; align-items: center;">
-<a href="https://www.javascript.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="45" height="45"/></a>
+<h3 style="text-align: center">Languages: </h3>
+<div style="flex: auto; display: flex; gap: 15px; align-items: center; justify-content: center">
+<a href="https://www.javascript.com/" rel="nofollow"><img src="assets/javascript.png" width="45" height="45"/></a>
 <a href="https://lenguajehtml.com/html/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a>
 <a href="https://lenguajecss.com/css" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50"/></a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="45" height="45"/></a>
@@ -47,13 +49,14 @@ In the ever-evolving tech landscape, it's not just about getting the job done; i
 <a href="https://www.java.com/en/" rel="nofollow"><img src="assets/java-original.svg" width="45" height="45"/></a>
 </div>
 
-### Tools & Platforms:
-<div style="flex: auto; display: flex; gap: 10px; align-items: center;">
+<h3 style="text-align: center">Tools & Platforms:</h3>
+<div style="flex: auto; display: flex; gap: 10px; align-items: center; justify-content: center">
 <a href="https://www.figma.com/" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCHweVdJnbAlrZpfDf9iE1Th9VjUCqIjUpAG_ww7oMF6C8TsbT5S66nauebQ&s" width="40" height="40"/></a>
 <a href="https://zeplin.io/" rel="nofollow"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/photoshop.html" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/></a>
 <a href="https://helpx.adobe.com/xd/get-started.html" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" width="40" height="40"/></a>
 <a href="https://jestjs.io/" rel="nofollow"><img src="https://miro.medium.com/v2/resize:fit:400/0*oNXnMpSxsxaKKMed.png" width="40" height="40"/></a>
+<a href="https://playwright.dev/" rel="nofollow"><img src="assets/playwright.webp" width="40" height="40"/></a>
 <a href="https://mochajs.org/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mocha_%28JavaScript_framework%29_%28logo%29.svg/2048px-Mocha_%28JavaScript_framework%29_%28logo%29.svg.png" width="40" height="40"/></a>
 <a href="https://www.postman.com/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40"/></a>
 <a href="https://git-scm.com/" rel="nofollow"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/></a>
@@ -62,12 +65,12 @@ In the ever-evolving tech landscape, it's not just about getting the job done; i
 <a href="https://firebase.google.com/" rel="nofollow"><img src="assets/firebase.png" width="40" height="40"/></a>
 </div>
 
-### Frameworks & Libraries:
-<div style="flex: auto; display: flex; gap: 5px; align-items: center;">
+<h3 style="text-align: center">Frameworks & Libraries:</h3>
+<div style="flex: auto; display: flex; gap: 20px; align-items: center; justify-content: center">
 <a href="https://angular.io/" rel="nofollow"><img src="assets/AngularJS-Shield.svg" width="40" height="40"/></a>
 <a href="https://rxjs.dev/" rel="nofollow"><img src="assets/rxjs.png" width="40" height="40"/></a>
 <a href="https://nestjs.com/" rel="nofollow"><img src="assets/NestJS.png" width="40" height="40"/></a>
-<a href="https://ngrx.io/" rel="nofollow"><img src="https://ngrx.io/assets/images/badge.svg" width="40" height="40"/></a>
+<a href="https://ngrx.io/" rel="nofollow"><img src="assets/ngrx.svg" width="40" height="40"/></a>
 <a href="https://nextjs.org/" rel="nofollow"><img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="40" height="40"/></a>
 <a href="https://expressjs.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://redux.js.org/" rel="nofollow"><img src="https://redux.js.org/img/redux.svg" width="40" height="40"/></a>
@@ -80,4 +83,4 @@ In the ever-evolving tech landscape, it's not just about getting the job done; i
 
 
 
-  
+
